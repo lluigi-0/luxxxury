@@ -1,1 +1,1 @@
-if getgenv().Key ~= "https://discord.gg/8m49m785kS" then error("Invalid Key. Expected: 'https://discord.gg/8m49m785kS'.") else loadstring(game:HttpGet("https://raw.githubusercontent.com/lluigi-0/luxxxury/refs/heads/main/lux.txt", true))() end
+if getgenv().Key ~= "https://discord.gg/9qDscFUhTz" then error("Invalid Key. Expected: 'https://discord.gg/9qDscFUhTz'.") else loadstring(game:HttpGet("https://raw.githubusercontent.com/lluigi-0/luxxxury/refs/heads/main/lux.txt", true))() end
